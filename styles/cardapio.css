@@ -28,6 +28,7 @@ header {
 }
 header a{
     text-decoration: none;
+    text-decoration-color: #ebebeb;
 }
 main{
     transition: opacity 0.5s ease;
