@@ -26,6 +26,10 @@ header {
     border-bottom-right-radius: 17px;
     transition: 0.5s ease;
 }
+header a{
+    text-decoration: none;
+    color: #ebebeb;
+}
 header::after {
     content: '';
     position: absolute;
