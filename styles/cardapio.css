@@ -38,6 +38,7 @@ header::after {
     height: 10px;
 }
 header h1{
+    text-decoration: none;
     margin-top: -3px;
     height: 27px;
     margin-left: -5px;
