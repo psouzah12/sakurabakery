@@ -26,6 +26,9 @@ header {
     border-bottom-right-radius: 17px;
     transition: 0.5s ease;
 }
+header a{
+    text-decoration: none;
+}
 main{
     transition: opacity 0.5s ease;
 }
